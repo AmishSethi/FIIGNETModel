@@ -8,7 +8,7 @@ import lmdb
 from tqdm import tqdm
 
 from dataset import ImageFileDataset, CodeRow
-from vqvae import VQVAE
+from FIIGNet import FIIGNet
 
 
 def extract(lmdb_env, loader, model, device):
@@ -56,7 +56,7 @@ if __name__ == '__main__':
     dataset = ImageFileDataset(args.path, transform=transform)
     loader = DataLoader(dataset, batch_size=128, shuffle=False, num_workers=4)
 
-    model = VQVAE()
+    model = FIIGNet()
     model.load_state_dict(torch.load(args.ckpt))
     model = model.to(device)
     model.eval()

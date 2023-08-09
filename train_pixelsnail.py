@@ -34,6 +34,7 @@ def train(args, epoch, loader, model, optimizer, scheduler, device):
         elif args.hier == 'bottom':
             bottom = bottom.to(device)
             target = bottom
+            # print("top shape/cond", top.shape)
             out, _ = model(bottom, condition=top)
 
         loss = criterion(out, target)
@@ -70,13 +71,13 @@ class PixelTransform:
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--batch', type=int, default=32)
-    parser.add_argument('--epoch', type=int, default=420)
+    parser.add_argument('--epoch', type=int, default=520)
     parser.add_argument('--hier', type=str, default='top')
     parser.add_argument('--lr', type=float, default=3e-4)
     parser.add_argument('--channel', type=int, default=256)
     parser.add_argument('--n_res_block', type=int, default=4)
     parser.add_argument('--n_res_channel', type=int, default=256)
-    parser.add_argument('--n_out_res_block', type=int, default=0)
+    parser.add_argument('--n_out_res_block', type=int, default=3)
     parser.add_argument('--n_cond_res_block', type=int, default=3)
     parser.add_argument('--dropout', type=float, default=0.1)
     parser.add_argument('--amp', type=str, default='O0')

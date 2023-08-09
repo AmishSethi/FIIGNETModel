@@ -1,10 +1,3 @@
-# Copyright (c) Xi Chen
-#
-# This source code is licensed under the MIT license found in the
-# LICENSE file in the root directory of this source tree.
-
-# Borrowed from https://github.com/neocxi/pixelsnail-public and ported it to PyTorch
-
 from math import sqrt
 from functools import partial, lru_cache
 
