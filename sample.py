@@ -5,7 +5,7 @@ import torch
 from torchvision.utils import save_image
 from tqdm import tqdm
 
-from FIIGNet import FIIGNet
+from vqvae import VQVAE
 from pixelsnail import PixelSNAIL
 
 
@@ -32,7 +32,7 @@ def load_model(model, checkpoint, device):
         args = ckpt['args']
 
     if model == 'vqvae':
-        model = FIIGNet()
+        model = VQVAE()
 
     elif model == 'pixelsnail_top':
         model = PixelSNAIL(

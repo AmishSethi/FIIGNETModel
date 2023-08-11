@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c4b046b-8096-459c-95ef-1d6da930539c" name="Changes" comment="ignore files" />
+    <list default="true" id="e71b4525-c6a8-4209-8aba-cac242bf744b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,54 +13,36 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 5
-}</component>
-  <component name="ProjectId" id="2TUk6e8zTjHCGIHhxRkTmfAtsZ7" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/ugrad/serius/amishsethi/SERIUS/ModelsTesting/FIIGNET",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
-}</component>
+}]]></component>
   <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
     <layout>
       <window_info id="Space Code Reviews" />
       <window_info id="Bookmarks" side_tool="true" />
-      <window_info id="VcsChanges" weight="0.123731464" />
+      <window_info id="VcsChanges" weight="0.11748634" />
       <window_info id="Merge Requests" />
       <window_info id="Commit_Guest" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5023202" visible="true" weight="0.11748634" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Structure" order="2" sideWeight="0.49767983" side_tool="true" weight="0.123731464" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" sideWeight="0.5023202" visible="true" weight="0.11748634" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Profiler" />
       <window_info anchor="bottom" id="Python Packages" />
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.26461297" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.22834069" />
       <window_info anchor="bottom" id="Problems View" order="1" />
       <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.22834069" />
-      <window_info anchor="bottom" id="Services" order="3" weight="0.33014706" />
+      <window_info anchor="bottom" id="Services" order="3" weight="0.22834069" />
       <window_info anchor="right" id="Endpoints" />
       <window_info anchor="right" id="SciView" />
       <window_info anchor="right" id="Meet New UI" side_tool="true" />
@@ -69,43 +51,8 @@
       <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
     </layout>
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/.idea" />
-    </key>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="3c4b046b-8096-459c-95ef-1d6da930539c" name="Changes" comment="" />
-      <created>1691104873889</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1691104873889</updated>
-      <workItem from="1691104876160" duration="599000" />
-      <workItem from="1691175381438" duration="185000" />
-      <workItem from="1691175942744" duration="6206000" />
-      <workItem from="1691639294650" duration="3598000" />
-      <workItem from="1691782855719" duration="1083000" />
-      <workItem from="1691784504332" duration="170000" />
-      <workItem from="1691784932152" duration="564000" />
-    </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.History.Properties">
-    <option name="COLUMN_ID_ORDER">
-      <list>
-        <option value="Default.Root" />
-        <option value="Default.Author" />
-        <option value="Default.Date" />
-        <option value="Default.Subject" />
-        <option value="Space.CommitStatus" />
-      </list>
-    </option>
-    <option name="SHOW_OTHER_BRANCHES" value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -118,7 +65,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="HEAD" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
