@@ -1,0 +1,102 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"3c4b046b-8096-459c-95ef-1d6da930539c\" name=\"Changes\" comment=\"ignore files\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;customColor&quot;: &quot;&quot;,\n  &quot;associatedIndex&quot;: 5\n}</component>\n  <component name=\"ProjectId\" id=\"2TUk6e8zTjHCGIHhxRkTmfAtsZ7\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;main&quot;,\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"RdControllerToolWindowsLayoutState\" isNewUi=\"true\">\n    <layout>\n      <window_info id=\"Space Code Reviews\" />\n      <window_info id=\"Bookmarks\" side_tool=\"true\" />\n      <window_info id=\"VcsChanges\" weight=\"0.123731464\" />\n      <window_info id=\"Merge Requests\" />\n      <window_info id=\"Commit_Guest\" />\n      <window_info id=\"Pull Requests\" />\n      <window_info id=\"Learn\" />\n      <window_info active=\"true\" content_ui=\"combo\" id=\"Project\" order=\"0\" sideWeight=\"0.5023202\" visible=\"true\" weight=\"0.11748634\" />\n      <window_info id=\"Commit\" order=\"1\" weight=\"0.25\" />\n      <window_info id=\"Structure\" order=\"2\" sideWeight=\"0.49767983\" side_tool=\"true\" weight=\"0.123731464\" />\n      <window_info anchor=\"bottom\" id=\"Database Changes\" />\n      <window_info anchor=\"bottom\" id=\"TypeScript\" />\n      <window_info anchor=\"bottom\" id=\"Profiler\" />\n      <window_info anchor=\"bottom\" id=\"Python Packages\" />\n      <window_info anchor=\"bottom\" id=\"TODO\" />\n      <window_info anchor=\"bottom\" id=\"File Transfer\" />\n      <window_info anchor=\"bottom\" id=\"Version Control\" order=\"0\" weight=\"0.26461297\" />\n      <window_info anchor=\"bottom\" id=\"Problems View\" order=\"1\" />\n      <window_info active=\"true\" anchor=\"bottom\" id=\"Terminal\" order=\"2\" visible=\"true\" weight=\"0.22834069\" />\n      <window_info anchor=\"bottom\" id=\"Services\" order=\"3\" weight=\"0.33014706\" />\n      <window_info anchor=\"right\" id=\"Endpoints\" />\n      <window_info anchor=\"right\" id=\"SciView\" />\n      <window_info anchor=\"right\" id=\"Meet New UI\" side_tool=\"true\" />\n      <window_info anchor=\"right\" content_ui=\"combo\" id=\"Notifications\" order=\"0\" weight=\"0.25\" />\n      <window_info anchor=\"right\" id=\"Database\" order=\"1\" weight=\"0.25\" />\n      <window_info anchor=\"right\" id=\"Gradle\" order=\"2\" weight=\"0.25\" />\n    </layout>\n  </component>\n  <component name=\"RecentsManager\">\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/.idea\" />\n    </key>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"3c4b046b-8096-459c-95ef-1d6da930539c\" name=\"Changes\" comment=\"\" />\n      <created>1691104873889</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1691104873889</updated>\n      <workItem from=\"1691104876160\" duration=\"599000\" />\n      <workItem from=\"1691175381438\" duration=\"185000\" />\n      <workItem from=\"1691175942744\" duration=\"6206000\" />\n      <workItem from=\"1691639294650\" duration=\"3598000\" />\n      <workItem from=\"1691782855719\" duration=\"1083000\" />\n      <workItem from=\"1691784504332\" duration=\"170000\" />\n      <workItem from=\"1691784932152\" duration=\"564000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.History.Properties\">\n    <option name=\"COLUMN_ID_ORDER\">\n      <list>\n        <option value=\"Default.Root\" />\n        <option value=\"Default.Author\" />\n        <option value=\"Default.Date\" />\n        <option value=\"Default.Subject\" />\n        <option value=\"Space.CommitStatus\" />\n      </list>\n    </option>\n    <option name=\"SHOW_OTHER_BRANCHES\" value=\"true\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State>\n              <option name=\"FILTERS\">\n                <map>\n                  <entry key=\"branch\">\n                    <value>\n                      <list>\n                        <option value=\"HEAD\" />\n                      </list>\n                    </value>\n                  </entry>\n                </map>\n              </option>\n            </State>\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\n    <expand />\n    <select />\n  </component>\n</project>
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,7 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="3c4b046b-8096-459c-95ef-1d6da930539c" name="Changes" comment="ignore files" />
++    <list default="true" id="3c4b046b-8096-459c-95ef-1d6da930539c" name="Changes" comment="delete files">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -12,6 +14,7 @@
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="RESET_MODE" value="HARD" />
+   </component>
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+@@ -21,24 +24,27 @@
+   &quot;associatedIndex&quot;: 5
+ }</component>
+   <component name="ProjectId" id="2TUk6e8zTjHCGIHhxRkTmfAtsZ7" />
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "RunOnceActivity.OpenProjectViewOnStart": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
++    "WebServerToolWindowFactoryState": "false",
++    "git-widget-placeholder": "main",
++    "last_opened_file_path": "/home/ugrad/serius/amishsethi/SERIUS/ModelsTesting/FIIGNET",
++    "node.js.detected.package.eslint": "true",
++    "node.js.detected.package.tslint": "true",
++    "node.js.selected.package.eslint": "(autodetect)",
++    "node.js.selected.package.tslint": "(autodetect)",
++    "nodejs_package_manager_path": "npm",
++    "vue.rearranger.settings.migration": "true"
+   }
+-}</component>
++}]]></component>
+   <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
+     <layout>
+       <window_info id="Space Code Reviews" />
+@@ -57,10 +63,10 @@
+       <window_info anchor="bottom" id="Python Packages" />
+       <window_info anchor="bottom" id="TODO" />
+       <window_info anchor="bottom" id="File Transfer" />
+-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.26461297" />
++      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.22834069" />
+       <window_info anchor="bottom" id="Problems View" order="1" />
+-      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.22834069" />
+-      <window_info anchor="bottom" id="Services" order="3" weight="0.33014706" />
++      <window_info anchor="bottom" id="Terminal" order="2" weight="0.22834069" />
++      <window_info anchor="bottom" id="Services" order="3" weight="0.22834069" />
+       <window_info anchor="right" id="Endpoints" />
+       <window_info anchor="right" id="SciView" />
+       <window_info anchor="right" id="Meet New UI" side_tool="true" />
+@@ -88,7 +94,7 @@
+       <workItem from="1691639294650" duration="3598000" />
+       <workItem from="1691782855719" duration="1083000" />
+       <workItem from="1691784504332" duration="170000" />
+-      <workItem from="1691784932152" duration="564000" />
++      <workItem from="1691784932152" duration="1684000" />
+     </task>
+     <servers />
+   </component>
+@@ -129,6 +135,10 @@
+         </entry>
+       </map>
+     </option>
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="ignore files" />
++    <option name="LAST_COMMIT_MESSAGE" value="ignore files" />
+   </component>
+   <component name="XSLT-Support.FileAssociations.UIState">
+     <expand />

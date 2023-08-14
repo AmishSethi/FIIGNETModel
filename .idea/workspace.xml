@@ -4,19 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e71b4525-c6a8-4209-8aba-cac242bf744b" name="Changes" comment="" />
+    <list default="true" id="e71b4525-c6a8-4209-8aba-cac242bf744b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="13ec45455d5dd13b3a26ba770e22a60d5471c537" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="vcs:///home/ugrad/serius/amishsethi/SERIUS/ModelsTesting/FIIGNET/.idea/workspace.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="vcs:///home/ugrad/serius/amishsethi/SERIUS/ModelsTesting/FIIGNET/extract_code.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="vcs:///home/ugrad/serius/amishsethi/SERIUS/ModelsTesting/FIIGNET/pixelsnail.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="vcs:///home/ugrad/serius/amishsethi/SERIUS/ModelsTesting/FIIGNET/sample.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="vcs:///home/ugrad/serius/amishsethi/SERIUS/ModelsTesting/FIIGNET/train_pixelsnail.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "FIIGNET",
     "last_opened_file_path": "/home/ugrad/serius/amishsethi/SERIUS/ModelsTesting/FIIGNET",
     "node.js.selected.package.tslint": "(autodetect)"
   }
@@ -25,23 +39,23 @@
     <layout>
       <window_info id="Space Code Reviews" />
       <window_info id="Bookmarks" side_tool="true" />
-      <window_info id="VcsChanges" weight="0.11748634" />
+      <window_info id="VcsChanges" weight="0.114363775" />
       <window_info id="Merge Requests" />
       <window_info id="Commit_Guest" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info id="Commit" order="1" weight="0.25" />
-      <window_info id="Structure" order="2" sideWeight="0.49767983" side_tool="true" weight="0.123731464" />
-      <window_info active="true" content_ui="combo" id="Project" order="3" sideWeight="0.5023202" visible="true" weight="0.11748634" />
+      <window_info id="Commit" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.49767983" side_tool="true" weight="0.123731464" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.5023202" visible="true" weight="0.114363775" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Profiler" />
       <window_info anchor="bottom" id="Python Packages" />
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.22834069" />
-      <window_info anchor="bottom" id="Problems View" order="1" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.22834069" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.4339207" />
+      <window_info anchor="bottom" id="Problems View" order="1" weight="0.21218796" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.4339207" />
       <window_info anchor="bottom" id="Services" order="3" weight="0.22834069" />
       <window_info anchor="right" id="Endpoints" />
       <window_info anchor="right" id="SciView" />
@@ -65,7 +79,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="FIIGNET" />
                       </list>
                     </value>
                   </entry>
